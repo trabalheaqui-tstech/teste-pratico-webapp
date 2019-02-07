@@ -9,6 +9,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 Você deverá criar 2 aplicações para cadastramento de veículos a venda:
 1. **Back-end:** aplicação .NET WEB-API.
 2. **Front-end:** Single Page Application que se comunique com estes serviços (Angular ou React).
+
 **Base de dados:** Fica a seu critério SQL SERVER, Memória, Redis, Mongo, Prostegres, MySql ou qualquer outro meio.
 
 # Requisitos:
@@ -36,7 +37,9 @@ As propostas devem contém as seguintes informações:
 -	Veículo (int ou String)
 -	Valor (Decimal)
 -	Nome do cliente (String)
+
 Uma proposta só pode ser associada a um veículo cadastrado e não vendido. 
+
 Devido ao prazo, falamos para nosso cliente que não conseguiríamos colocar fotos do carro. Mas, caso consiga finalizar antes do prazo e conseguir disponibilizar imagens do carro, seria bem legal!
 
 ## API endpoints
